@@ -1,4 +1,4 @@
-# stock_market_fore# Stock Market Forecasting using LSTM
+# Stock Market Forecasting using LSTM
 
 ## Overview
 
@@ -40,7 +40,7 @@ For detailed instructions and code, refer to the Jupyter Notebook `Stock_market_
 ![Stock Price Forecasting](https://github.com/monalisaburma/stock-market-forecasting/assets/122416015/954ad89e-7a95-4b0d-9518-7cca31e9166f)
 
 Complete o/p:
-![image](https://github.com/monalisaburma/stock-market-forecasting/assets/122416015/078521e1-76a8-4824-b62f-37fcf3af7691)
+!(https://github.com/monalisaburma/stock-market-forecasting/assets/122416015/078521e1-76a8-4824-b62f-37fcf3af7691)
 
 
 
