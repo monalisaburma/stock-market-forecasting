@@ -37,12 +37,14 @@ For detailed instructions and code, refer to the Jupyter Notebook `Stock_market_
 
 ## Plots
 
-![Stock Price Forecasting](https://github.com/monalisaburma/stock-market-forecasting/assets/122416015/954ad89e-7a95-4b0d-9518-7cca31e9166f)
+#### 30 Days Stock Market Forecasting
 
-Complete o/p:
-!(https://github.com/monalisaburma/stock-market-forecasting/assets/122416015/078521e1-76a8-4824-b62f-37fcf3af7691)
+![30 Days Forecasting](https://github.com/monalisaburma/stock-market-forecasting/assets/122416015/954ad89e-7a95-4b0d-9518-7cca31e9166f)
+
+#### Complete O/P
+
+![Complete o/p](https://github.com/monalisaburma/stock-market-forecasting/assets/122416015/078521e1-76a8-4824-b62f-37fcf3af769)
 
 
 
 Feel free to reach out for any questions or suggestions!
-casting
