@@ -43,7 +43,7 @@ For detailed instructions and code, refer to the Jupyter Notebook `Stock_market_
 
 #### Complete O/P
 
-![Complete O/P](https://github.com/monalisaburma/stock-market-forecasting/assets/122416015/078521e1-76a8-4824-b62f-37fcf3af769)
+![Complete O/P](https://github.com/monalisaburma/stock-market-forecasting/assets/122416015/d049c371-d384-4f2b-958c-006b20f55e55)
 
 
 
